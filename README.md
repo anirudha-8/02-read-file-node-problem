@@ -23,7 +23,7 @@ Create a Node.js script that reads the content of a file and displays it in the 
 Your project folder should look like this:
 
 ```bash
-problem-2-file-reader/
+02-read-file-node-problem/
 ├── example.txt       # The file to be read
 ├── readFile.js       # The script to read the file content
 ├── README.md         # Documentation for this problem
